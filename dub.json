@@ -1,0 +1,10 @@
+{
+	"name": "libvpx",
+	"description": "D bindings for libvpx.",
+        "license": "Boost",
+	"authors": ["Scott Wang"],
+	"dependencies": {
+	},
+        "targetType": "sourceLibrary",
+        "libs": ["vpx"]
+}
